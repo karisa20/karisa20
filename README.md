@@ -33,7 +33,4 @@ Meu nome é **Karisa de Souza Cintra**!<br>👨‍💻 Futura Engenheira de Soft
 ---
 [![](https://visitcount.itsvg.in/api?id=karisa20&icon=0&color=0)](https://visitcount.itsvg.in)
 
--
-
-###
 
