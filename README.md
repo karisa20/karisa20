@@ -1,5 +1,7 @@
-## 💫 Olá, seja bem vindo(a) ao meu GitHub!
-Meu nome é **Karisa de Souza Cintra**!<br>👨‍💻 Futura Engenheira de Software<br>🔭 Estudante de **Cybersegurança** e **Segurança da Informação**<br> Ás vezes me arrisco a desenvolver páginas. Adoro estudar sobre Cloud, <br> junto com algumas experiências em Infra que tive anteriormente.<br>💬 Deixe sua contribuição e dicas para sempre melhorarmos juntos<br>
+## 💫 Olá, seja bem vindo(a) ao meu GitHub! <br>
+
+### Meu nome é Karisa de Souza Cintra!<br>
+👨‍💻 Futura Engenheira de Software<br>🔭 Estudante de **Cybersegurança** e **Segurança da Informação**<br> 🌐 Ás vezes me arrisco a desenvolver páginas. Adoro estudar sobre Cloud, <br> junto com algumas experiências em Infra que tive anteriormente.<br>💬 Deixe sua contribuição e dicas para sempre melhorarmos juntos<br>
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/karisa-de-souza-cintra) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:karisasouzacintra2@gmail.com) 
@@ -27,7 +29,7 @@ Meu nome é **Karisa de Souza Cintra**!<br>👨‍💻 Futura Engenheira de Soft
 ![](https://nirzak-streak-stats.vercel.app/?user=karisa20&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=karisa20&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
+### 🔝 Top Repos
 ![](https://github-contributor-stats.vercel.app/api?username=karisa20&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 ---
