@@ -1,7 +1,7 @@
 ## 💫 Olá, seja bem vindo(a) ao meu GitHub! <br>
 
 ### Meu nome é Karisa de Souza Cintra!<br>
-👨‍💻 Futura Engenheira de Software<br>🔭 Estudante de **Cybersegurança** e **Segurança da Informação**<br> 🌐 Ás vezes me arrisco a desenvolver páginas. Adoro estudar sobre Cloud, <br> junto com algumas experiências em Infra que tive anteriormente.<br>💬 Deixe sua contribuição e dicas para sempre melhorarmos juntos<br>
+👨‍💻 Futura **Engenheira de Software**<br>🔭 Estudante de **Cybersegurança** e **Segurança da Informação**<br> 🌐 Ás vezes me arrisco a desenvolver páginas. Adoro estudar sobre Cloud, <br> junto com algumas experiências em Infra que tive anteriormente.<br>💬 Deixe sua contribuição e dicas para sempre melhorarmos juntos<br>
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/karisa-de-souza-cintra) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:karisasouzacintra2@gmail.com) 
