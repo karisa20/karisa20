@@ -1,10 +1,30 @@
 ## 💫 Olá, seja bem vindo(a) ao meu GitHub! <br>
 
 ### Meu nome é Karisa de Souza Cintra!<br>
+
+###
+
+<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWo1eHdjZzl3MnltMTBjYXl6a2RveDQ2d2hyN28xMGY1bW5rMXNyayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0mYcI6XqAzYgc9JaAG/giphy.gif"  />
+
+###
+
 👨‍💻 Futura **Engenheira de Software**<br>🔭 Estudante de **Cybersegurança** e **Segurança da Informação**<br> 🌐 Ás vezes me arrisco a desenvolver páginas. Adoro estudar sobre Cloud, <br> junto com algumas experiências em Infra que tive anteriormente.<br>💬 Deixe sua contribuição e dicas para sempre melhorarmos juntos<br>
 
+###
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/karisa-de-souza-cintra) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:karisasouzacintra2@gmail.com) 
+<div align="center">
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/karisa-de-souza-cintra" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="karisasouzacintra2@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+  <a href="https://www.instagram.com/karisacintra/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+</div>
+
+###
 
 ## 💻 Stacks:
 <div align="center">
@@ -25,15 +45,11 @@
 
   
 ## 📊 GitHub:
-![](https://github-readme-stats.vercel.app/api?username=karisa20&theme=draculak&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=karisa20&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=karisa20&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Repos
-![](https://github-contributor-stats.vercel.app/api?username=karisa20&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=karisa20&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=karisa20&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ###
 
