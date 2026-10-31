@@ -8,7 +8,7 @@
 
 ###
 
-👨‍💻 Futura **Engenheira de Software**<br>🔭 Estudante de **Cybersegurança** e **Segurança da Informação**<br> 🌐 Ás vezes me arrisco a desenvolver páginas. Adoro estudar sobre Cloud, <br> junto com algumas experiências em Infra que tive anteriormente.<br>💬 Deixe sua contribuição e dicas para sempre melhorarmos juntos<br>
+👨‍💻**Engenheira de Software**<br>🔭 Estudante de **Cybersegurança** e **Segurança da Informação**<br> 🌐 Ás vezes me arrisco a desenvolver páginas. Adoro estudar sobre Cloud, <br> junto com algumas experiências em Infra que obtive anteriormente.<br>💬 Deixe sua contribuição e dicas para sempre melhorarmos juntos<br>
 
 ###
 
